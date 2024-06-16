@@ -1,1 +1,0 @@
-# final-sepakat-app
