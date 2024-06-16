@@ -1,0 +1,308 @@
+{
+  "pakaian_adat": [
+    {
+      "id": 1,
+      "name": "Ulee Balang",
+      "pictureId": "/images/baju/ulee_balang_aceh.webp",
+      "provinsi": "Aceh",
+      "harga": 200000,
+      "deskripsi": "Ulee Balang adalah pakaian adat dari Aceh yang melambangkan kebesaran dan kewibawaan. Pakaian ini terdiri dari atasan berupa baju lengan panjang dengan sulaman emas dan celana panjang yang dilengkapi dengan kain songket sebagai pelengkap. Pria mengenakan ikat kepala bernama \"Meukeutop\", sementara wanita mengenakan mahkota \"Tengkulok\" dan hiasan emas. Ulee Balang sering dipakai dalam upacara resmi dan adat istiadat Aceh."
+    },
+    {
+      "id": 2,
+      "name": "Ulos",
+      "pictureId": "images/baju/ulos_sumatera_utara.jpg",
+      "provinsi": "Sumatera Utara",
+      "harga": 200000,
+      "deskripsi": "Ulos adalah kain tenun tradisional dari Sumatera Utara yang memiliki nilai budaya tinggi dalam masyarakat Batak. Ulos digunakan dalam berbagai upacara adat seperti pernikahan, kelahiran, dan kematian. Kain ini biasanya dikenakan sebagai selendang atau ikat pinggang oleh pria dan wanita, serta dihiasi dengan motif geometris khas Batak."
+    },
+    {
+      "id": 3,
+      "name": "Aesan Gede",
+      "pictureId": "images/baju/aesan_gede_sumatera_selatan.jpg",
+      "provinsi": "Sumatera Selatan",
+      "harga": 200000,
+      "deskripsi": "Aesan Gede adalah pakaian adat Sumatera Selatan yang mewah dan penuh hiasan, biasanya dikenakan oleh pengantin dalam upacara pernikahan. Pakaian ini terdiri dari kain songket berwarna emas, baju kurung panjang, dan berbagai aksesoris seperti kalung, gelang, serta mahkota. Aesan Gede mencerminkan kemegahan dan kemewahan kebudayaan Palembang."
+    },
+    {
+      "id": 4,
+      "name": "Bundo Kanduang",
+      "pictureId": "images/baju/bundo_kanduang_sumatera_barat.webp",
+      "provinsi": "Sumatera Barat",
+      "harga": 200000,
+      "deskripsi": "Bundo Kanduang adalah pakaian adat khas Sumatera Barat yang dikenakan oleh wanita, mencerminkan martabat dan kehormatan kaum perempuan Minangkabau. Busana ini terdiri dari baju kurung berbahan sutra atau songket, kain sarung, dan selendang. Kepala dihiasi dengan \"Tengkuluk Tanduk\" yang berbentuk seperti tanduk kerbau, melambangkan kebijaksanaan dan kekuatan"
+    },
+    {
+      "id": 5,
+      "name": "Baju Betabur",
+      "pictureId": "images/baju/baju_betabur_bengkulu.jpg",
+      "provinsi": "Bengkulu",
+      "harga": 150000,
+      "deskripsi": "Baju Betabur adalah pakaian adat dari Provinsi Bengkulu yang dikenakan oleh wanita. Pakaian ini terdiri dari baju kurung panjang yang dihiasi dengan taburan manik-manik dan payet, serta kain sarung songket. Baju Betabur sering dipakai dalam acara-acara adat dan upacara resmi, melambangkan keanggunan dan keindahan budaya Bengkulu."
+    },
+    {
+      "id": 6,
+      "name": "Teluk Belanga",
+      "pictureId": "images/baju/teluk_belanga_kepulauan_riau.jpg",
+      "provinsi": "Kepulauan Riau",
+      "harga": 150000,
+      "deskripsi": "Teluk Belanga adalah pakaian adat dari Kepulauan Riau yang dikenakan oleh pria, terdiri dari baju kurung berkerah dengan kancing di depan dan celana panjang. Biasanya dilengkapi dengan kain sarung yang diselendangkan di pinggang. Pakaian ini mencerminkan kesederhanaan dan keanggunan, serta sering dipakai dalam acara-acara resmi."
+    },
+    {
+      "id": 7,
+      "name": "Baju Kurung",
+      "pictureId": "images/baju/baju_kurung_jambi.jpg",
+      "provinsi": "Jambi",
+      "harga": 150000,
+      "deskripsi": "Baju Kurung adalah pakaian adat Jambi yang dikenakan oleh wanita, berupa baju panjang dengan potongan longgar dan celana panjang atau kain sarung. Pakaian ini biasanya dihiasi dengan motif tradisional dan dikenakan dalam upacara adat dan acara resmi. Baju Kurung mencerminkan"
+    },
+    {
+      "id": 8,
+      "name": "Tulang Bawang",
+      "pictureId": "images/baju/tulang_bawang_lampung.webp",
+      "provinsi": "Lampung",
+      "harga": 200000,
+      "deskripsi": "Tulang Bawang adalah pakaian adat dari Provinsi Lampung yang dikenakan oleh pria dan wanita. Pakaian ini terdiri dari kain tapis yang dihiasi dengan sulaman emas, baju kurung panjang, dan berbagai aksesoris seperti kalung dan gelang. Tulang Bawang sering dipakai dalam upacara adat dan acara resmi, mencerminkan kekayaan budaya Lampung."
+    },
+    {
+      "id": 9,
+      "name": "Paksian",
+      "pictureId": "images/baju/paksian_bangka_belitung.jpg",
+      "provinsi": "Bangka Belitung",
+      "harga": 200000,
+      "deskripsi": "Paksian adalah pakaian adat dari Bangka Belitung yang digunakan dalam upacara pernikahan dan acara adat lainnya. Pakaian ini terdiri dari kain songket, baju kurung, dan selendang yang dihiasi dengan motif tradisional. Pria biasanya mengenakan destar atau ikat kepala, sementara wanita mengenakan hiasan kepala yang mewah."
+    },
+    {
+      "id": 10,
+      "name": "King Bibinge King Baba",
+      "pictureId": "images/baju/king_bibinge_king_baba_kalimantan_barat.jpeg",
+      "provinsi": "Kalimantan Barat",
+      "harga": 150000,
+      "deskripsi": "King Bibinge adalah pakaian adat dari Kalimantan Barat yang dikenakan oleh wanita, sementara King Baba dikenakan oleh pria. Pakaian ini terdiri dari kain tenun tradisional, baju panjang, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Pakaian ini sering dipakai dalam upacara adat dan acara resmi, mencerminkan keanggunan dan kekuatan masyarakat Dayak."
+    },
+    {
+      "id": 11,
+      "name": "Kustin",
+      "pictureId": "images/baju/kustin_kalimantan_timur.jpg",
+      "provinsi": "Kalimantan Timur",
+      "harga": 200000,
+      "deskripsi": "Kustin adalah pakaian adat dari Kalimantan Timur yang dikenakan oleh pria dan wanita. Pakaian ini terdiri dari kain tenun dengan motif khas Dayak, baju lengan panjang, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Kustin sering dipakai dalam upacara adat dan acara resmi, mencerminkan kekayaan budaya Dayak."
+    },
+    {
+      "id": 12,
+      "name": "Upak Nyamu",
+      "pictureId": "images/baju/upak_nyamu_kalimantan_tengah.jpg",
+      "provinsi": "Kalimantan Tengah",
+      "harga": 150000,
+      "deskripsi": "Upak Nyamu adalah pakaian adat dari Kalimantan Tengah yang dikenakan oleh pria dan wanita. Pakaian ini terdiri dari kain tenun tradisional yang dihiasi dengan motif alam, baju lengan panjang, dan berbagai aksesoris seperti kalung dan gelang. Upak Nyamu mencerminkan hubungan yang erat antara masyarakat Dayak dengan alam, sering dipakai dalam upacara adat."
+    },
+    {
+      "id": 13,
+      "name": "Taa Sapei Sapaq",
+      "pictureId": "images/baju/taa_sapei_sapaq_kalimantan_utara.jpeg",
+      "provinsi": "Kalimantan Utara",
+      "harga": 200000,
+      "deskripsi": "Ta’a adalah pakaian adat dari Kalimantan Utara yang dikenakan oleh wanita, sementara Sapei Sapaq dikenakan oleh pria. Pakaian ini terdiri dari kain tenun tradisional dengan motif khas Dayak, baju lengan panjang, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Ta’a dan Sapei Sapaq sering dipakai dalam upacara adat dan acara resmi."
+    },
+    {
+      "id": 14,
+      "name": "Pangsi",
+      "pictureId": "images/baju/pangsi_banten.jpeg",
+      "provinsi": "Banten",
+      "harga": 150000,
+      "deskripsi": "Pangsi adalah pakaian adat dari Banten yang dikenakan oleh pria, terdiri dari baju longgar dan celana panjang. Biasanya dilengkapi dengan ikat kepala dan kain sarung yang diselendangkan di pinggang. Pangsi sering dipakai dalam acara-acara adat dan kegiatan sehari-hari, mencerminkan kesederhanaan dan kepraktisan masyarakat Banten."
+    },
+    {
+      "id": 15,
+      "name": "Kebaya Encim",
+      "pictureId": "images/baju/kebaya_encim_dki_jakarta.jpg",
+      "provinsi": "DKI Jakarta",
+      "harga": 150000,
+      "deskripsi": "Kebaya Encim adalah pakaian adat dari DKI Jakarta yang dikenakan oleh wanita keturunan Tionghoa. Pakaian ini terdiri dari kebaya panjang dengan bordiran halus, kain batik, dan selendang. Kebaya Encim mencerminkan perpaduan budaya Betawi dan Tionghoa, sering dipakai dalam acara-acara adat dan perayaan."
+    },
+    {
+      "id": 16,
+      "name": "Kebaya Sunda",
+      "pictureId": "images/baju/kebaya_sunda_jawa_barat.jpg",
+      "provinsi": "Jawa Barat",
+      "harga": 150000,
+      "deskripsi": "Kebaya Sunda adalah pakaian adat dari Jawa Barat yang dikenakan oleh wanita. Pakaian ini terdiri dari kebaya panjang dengan bordiran khas, kain batik atau songket, dan selendang. Kebaya Sunda sering dipakai dalam upacara adat dan acara resmi, melambangkan keanggunan dan kelembutan wanita Sunda."
+    },
+    {
+      "id": 17,
+      "name": "Jawi Jangkep",
+      "pictureId": "images/baju/jawi_jangkep_jawa_tengah.jpg",
+      "provinsi": "Jawa Tengah",
+      "harga": 200000,
+      "deskripsi": "Jawi Jangkep adalah pakaian adat dari Jawa Tengah yang dikenakan oleh pria, terdiri dari baju surjan, kain jarik, dan blangkon sebagai penutup kepala. Pakaian ini mencerminkan kesederhanaan dan keanggunan budaya Jawa, sering dipakai dalam upacara adat dan acara resmi."
+    },
+    {
+      "id": 18,
+      "name": "Pesaan",
+      "pictureId": "images/baju/pesaan_jawa_timur.jpg",
+      "provinsi": "Jawa Timur",
+      "harga": 200000,
+      "deskripsi": "Pesa’an adalah pakaian adat dari Jawa Timur yang dikenakan oleh pria Madura. Pakaian ini terdiri dari baju lengan panjang dengan motif garis-garis, celana panjang, ikat kepala, dan kain sarung yang diselendangkan di pinggang. Pesa’an mencerminkan keberanian dan keperkasaan masyarakat Madura, sering dipakai dalam acara adat dan sehari-hari."
+    },
+    {
+      "id": 19,
+      "name": "Payas Agung",
+      "pictureId": "images/baju/payas_agung_bali.jpg",
+      "provinsi": "Bali",
+      "harga": 200000,
+      "deskripsi": "Payas Agung adalah pakaian adat dari Bali yang dikenakan oleh pengantin dalam upacara pernikahan. Pakaian ini terdiri dari baju dan kain songket yang mewah, berbagai perhiasan emas, dan mahkota yang indah. Payas Agung mencerminkan kemewahan dan keindahan budaya Bali, sering dipakai dalam upacara adat dan acara resmi."
+    },
+    {
+      "id": 20,
+      "name": "Amarasi",
+      "pictureId": "images/baju/amarasi_nusa_tenggara_timur.jpg",
+      "provinsi": "Nusa Tenggara Timur",
+      "harga": 150000,
+      "deskripsi": "Amarasi adalah pakaian adat dari Nusa Tenggara Timur yang dikenakan oleh pria dan wanita. Pakaian ini terdiri dari kain tenun ikat dengan motif tradisional, baju lengan panjang, dan berbagai aksesoris seperti kalung dan gelang. Amarasi sering dipakai dalam upacara adat dan acara resmi, mencerminkan kekayaan budaya NTT."
+    },
+    {
+      "id": 21,
+      "name": "Pegon",
+      "pictureId": "images/baju/pegon_nusa_tenggara_barat.jpg",
+      "provinsi": "Nusa Tenggara Barat",
+      "harga": 150000,
+      "deskripsi": "Pegon adalah pakaian adat dari Nusa Tenggara Barat yang dikenakan oleh pria Sasak. Pakaian ini terdiri dari baju lengan panjang, celana panjang, dan kain songket yang diselendangkan di pinggang. Pegon sering dipakai dalam upacara adat dan acara resmi, mencerminkan kekuatan dan keberanian masyarakat Sasak."
+    },
+    {
+      "id": 22,
+      "name": "Biliu Makuta",
+      "pictureId": "images/baju/biliu_makuta_gorontalo.jpg",
+      "provinsi": "Gorontalo",
+      "harga": 200000,
+      "deskripsi": "Biliu dan Makuta adalah pakaian adat dari Gorontalo yang dikenakan oleh pengantin dalam upacara pernikahan. Biliu adalah pakaian untuk wanita, terdiri dari baju panjang dan kain sarung yang dihiasi dengan sulaman emas. Makuta adalah pakaian untuk pria, terdiri dari baju panjang, celana panjang, dan ikat pinggang. Kedua pakaian ini mencerminkan kemegahan dan keindahan budaya Gorontalo."
+    },
+    {
+      "id": 23,
+      "name": "Pattuqduq Towaine",
+      "pictureId": "images/baju/pattuqduq_towaine_sulawesi_barat.jpg",
+      "provinsi": "Sulawesi Barat",
+      "harga": 200000,
+      "deskripsi": "Pattuqduq Towaine adalah pakaian adat dari Sulawesi Barat yang dikenakan oleh wanita. Pakaian ini terdiri dari baju lengan panjang dengan motif khas Mandar, kain sarung, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Pattuqduq Towaine sering dipakai dalam upacara adat dan acara resmi, mencerminkan keanggunan wanita Mandar."
+    },
+    {
+      "id": 24,
+      "name": "Nggembe",
+      "pictureId": "images/baju/nggembe_sulawesi_tengah.jpg",
+      "provinsi": "Sulawesi Tengah",
+      "harga": 200000,
+      "deskripsi": "Nggembe adalah pakaian adat dari Sulawesi Tengah yang dikenakan oleh wanita. Pakaian ini terdiri dari baju panjang dengan motif khas Kaili, kain sarung, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Nggembe sering dipakai dalam upacara adat dan acara resmi, mencerminkan keanggunan dan kekayaan budaya Kaili."
+    },
+    {
+      "id": 25,
+      "name": "Laku Tepu",
+      "pictureId": "images/baju/laku_tepu_sulawesi_utara.jpg",
+      "provinsi": "Sulawesi Utara",
+      "harga": 200000,
+      "deskripsi": "Laku Tepu adalah pakaian adat dari Sulawesi Utara yang dikenakan oleh pria dan wanita. Pakaian ini terdiri dari kain tenun tradisional, baju lengan panjang, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Laku Tepu sering dipakai dalam upacara adat dan acara resmi, mencerminkan kekayaan budaya Minahasa."
+    },
+    {
+      "id": 26,
+      "name": "Babu Ngawi",
+      "pictureId": "images/baju/babu_ngawi_sulawesi_tenggara.jpg",
+      "provinsi": "Sulawesi Tenggara",
+      "harga": 150000,
+      "deskripsi": "Babu Ngawi adalah pakaian adat dari Sulawesi Tenggara yang dikenakan oleh pria dan wanita. Pakaian ini terdiri dari kain tenun tradisional, baju lengan panjang, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Babu Ngawi sering dipakai dalam upacara adat dan acara resmi, mencerminkan kekayaan budaya Tolaki."
+    },
+    {
+      "id": 27,
+      "name": "Baju Bodo",
+      "pictureId": "images/baju/baju_bodo_sulawesi_selatan.jpg",
+      "provinsi": "Sulawesi Selatan",
+      "harga": 150000,
+      "deskripsi": "Baju Bodo adalah pakaian adat dari Sulawesi Selatan yang dikenakan oleh wanita. Pakaian ini terdiri dari baju longgar berwarna terang, kain sarung, dan selendang. Baju Bodo sering dipakai dalam upacara adat dan acara resmi, melambangkan keanggunan dan kesederhanaan wanita Bugis."
+    },
+    {
+      "id": 28,
+      "name": "Manteren Lamo",
+      "pictureId": "images/baju/manteren_lamo_maluku_utara.jpg",
+      "provinsi": "Maluku Utara",
+      "harga": 150000,
+      "deskripsi": "Manteren Lamo adalah pakaian adat dari Maluku Utara yang dikenakan oleh pria bangsawan. Pakaian ini terdiri dari baju lengan panjang, kain sarung, dan ikat kepala. Manteren Lamo sering dipakai dalam upacara adat dan acara resmi, mencerminkan kebesaran dan kewibawaan para bangsawan Maluku Utara."
+    },
+    {
+      "id": 29,
+      "name": "Cele",
+      "pictureId": "images/baju/cele_maluku.jpg",
+      "provinsi": "Maluku",
+      "harga": 150000,
+      "deskripsi": "Cele adalah pakaian adat dari Maluku yang dikenakan oleh pria dan wanita. Pakaian ini terdiri dari kain tenun dengan motif garis-garis, baju lengan panjang, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Cele sering dipakai dalam upacara adat dan acara resmi, mencerminkan kekayaan budaya Maluku."
+    },
+    {
+      "id": 30,
+      "name": "Ewer",
+      "pictureId": "images/baju/ewer_papua_barat.jpg",
+      "provinsi": "Papua Barat",
+      "harga": 200000,
+      "deskripsi": "Ewer adalah pakaian adat dari Papua Barat yang dikenakan oleh pria dan wanita. Pakaian ini terdiri dari kain tenun tradisional, baju lengan panjang, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Ewer sering dipakai dalam upacara adat dan acara resmi, mencerminkan kekayaan budaya Papua Barat."
+    },
+    {
+      "id": 31,
+      "name": "Koteka Holim",
+      "pictureId": "images/baju/koteka_holim_papua.jpg",
+      "provinsi": "Papua",
+      "harga": 150000,
+      "deskripsi": "Koteka atau Holim adalah pakaian adat dari Papua yang dikenakan oleh pria suku Dani dan beberapa suku lainnya. Koteka adalah penutup kemaluan yang terbuat dari kulit labu kering, digunakan dalam kehidupan sehari-hari dan upacara adat. Pakaian ini mencerminkan kesederhanaan dan keterikatan erat masyarakat Papua dengan alam."
+    },
+    {
+      "id": 32,
+      "name": "Koteka Holim",
+      "pictureId": "images/baju/koteka_holim_papua_tengah.jpg",
+      "provinsi": "Papua Tengah",
+      "harga": 150000,
+      "deskripsi": "Koteka atau Holim adalah pakaian adat dari Papua Tengah yang dikenakan oleh pria suku Dani dan beberapa suku lainnya. Koteka adalah penutup kemaluan yang terbuat dari kulit labu kering, digunakan dalam kehidupan sehari-hari dan upacara adat. Pakaian ini mencerminkan kesederhanaan dan keterikatan erat masyarakat Papua dengan alam."
+    },
+    {
+      "id": 33,
+      "name": "Koteka Holim",
+      "pictureId": "images/baju/koteka_holim_papua_pegunungan.jpg",
+      "provinsi": "Papua Pegunungan",
+      "harga": 150000,
+      "deskripsi": "Koteka atau Holim adalah pakaian adat dari Papua Pegunungan yang dikenakan oleh pria suku Dani dan beberapa suku lainnya. Koteka adalah penutup kemaluan yang terbuat dari kulit labu kering, digunakan dalam kehidupan sehari-hari dan upacara adat. Pakaian ini mencerminkan kesederhanaan dan keterikatan erat masyarakat Papua dengan alam."
+    },
+    {
+      "id": 34,
+      "name": "Pummi",
+      "pictureId": "images/baju/pummi_papua_selatan.jpg",
+      "provinsi": "Papua Selatan",
+      "harga": 150000,
+      "deskripsi": "Pummi adalah pakaian adat dari Papua Selatan yang dikenakan oleh pria dan wanita. Pakaian ini terdiri dari kain tenun tradisional, baju lengan panjang, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Pummi sering dipakai dalam upacara adat dan acara resmi, mencerminkan kekayaan budaya Papua Selatan."
+    },
+    {
+      "id": 35,
+      "name": "Boe Kuli Bia Topi Kasuari",
+      "pictureId": "images/baju/boe_kuli_bia_topi_kasuari_papua_barat_daya.jpg",
+      "provinsi": "Papua Barat Daya",
+      "harga": 150000,
+      "deskripsi": "Boe, Kuli Bia, dan Topi Kasuari adalah pakaian adat dari Papua Barat Daya yang dikenakan oleh pria dan wanita. Boe adalah pakaian penutup tubuh, Kuli Bia adalah kain tenun tradisional, dan Topi Kasuari adalah hiasan kepala yang terbuat dari bulu burung kasuari. Pakaian ini sering dipakai dalam upacara adat dan acara resmi, mencerminkan kekayaan budaya Papua Barat Daya."
+    },
+    {
+      "id": 36,
+      "name": "Kesatrian",
+      "pictureId": "images/baju/kesatrian_ageng_diy.jpg",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "harga": 200000,
+      "deskripsi": "Kesatrian Ageng adalah pakaian adat dari Daerah Istimewa Yogyakarta yang dikenakan oleh pria bangsawan. Pakaian ini terdiri dari baju lengan panjang, kain batik, ikat pinggang, dan blangkon sebagai penutup kepala. Kesatrian Ageng mencerminkan kebesaran dan kewibawaan para bangsawan Yogyakarta, sering dipakai dalam upacara adat dan acara resmi."
+    },
+    {
+      "id": 37,
+      "name": "Laboh Kurung Cekak Musang",
+      "pictureId": "images/baju/kebaya_laboh_kurung_cekak_musang_riau.JPG",
+      "provinsi": "Riau",
+      "harga": 200000,
+      "deskripsi": "Kebaya Laboh dan Kurung Cekak Musang adalah pakaian adat dari Provinsi Riau. Kebaya Laboh dikenakan oleh wanita, berupa kebaya panjang dengan bordiran khas dan kain sarung. Kurung Cekak Musang dikenakan oleh pria, terdiri dari baju kurung dengan kerah cekak dan celana panjang. Kedua pakaian ini sering digunakan dalam acara adat dan resmi."
+    },
+    {
+      "id": 38,
+      "name": "Bagajah Gamuling Baular Lulut",
+      "pictureId": "images/baju/bagajah_gamuling_baular_lulut_kalimantan_selatan.jpg",
+      "provinsi": "Kalimantan Selatan",
+      "harga": 200000,
+      "deskripsi": "Bagajah Gamuling Baular Lulut adalah pakaian adat dari Kalimantan Selatan yang dikenakan oleh pria dan wanita. Pakaian ini terdiri dari kain sasirangan, baju kurung panjang, dan berbagai aksesoris seperti kalung, gelang, dan hiasan kepala. Bagajah Gamuling Baular Lulut sering dipakai dalam upacara adat dan acara resmi, mencerminkan keanggunan budaya Banjar."
+    }
+  ]
+}
