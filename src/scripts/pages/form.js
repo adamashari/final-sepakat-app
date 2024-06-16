@@ -121,7 +121,7 @@ const renderForm = (container) => {
 
       showAlert('success', `"Terima kasih telah mengisi formulir! 
         Pesanan untuk produk ${product} berhasil disimpan. 
-        Tunggu konfirmasi melalui email atau telepon Anda"`);
+        Tunggu konfirmasi melalui email atau telepon Anda."`);
 
       form.reset();
       sessionStorage.removeItem('product');
