@@ -189,6 +189,7 @@ nav li.active {
   cursor: pointer;
   border-radius: 10px;
   font-size: 14px;
+  font-weight: bold;
   letter-spacing: 0.1em;
   transition: background-color 0.3s;
 }
