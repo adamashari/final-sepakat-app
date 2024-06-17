@@ -36,6 +36,9 @@ const renderProduk = async (container) => {
     <div class="search-container">
       <input type="text" id="search-input" placeholder="Search by province..." autocomplete="off">
     </div>
+    <div id="loading" class="loading">
+      <div class="loading-circle"></div>
+    </div>
     <div id="pakaian-adat-list" class="pakaian-adat-list"></div>
     <button id="scroll-to-top" class="scroll-to-top"><i class="fas fa-arrow-up" title="scroll to top"></i></button>
   `;
@@ -43,7 +46,13 @@ const renderProduk = async (container) => {
   const pakaianAdatContainer = document.getElementById('pakaian-adat-list');
   const searchInput = document.getElementById('search-input');
   const scrollToTopButton = document.getElementById('scroll-to-top');
+  const loadingElement = document.getElementById('loading');
+
+  // Menampilkan elemen loading
+  loadingElement.style.display = 'flex';
   let pakaianAdatList = await fetchPakaianAdatData();
+   // Menyembunyikan elemen loading setelah data selesai dimuat
+  loadingElement.style.display = 'none';
 
   const displayPakaianAdat = (data) => {
     pakaianAdatContainer.innerHTML = '';
