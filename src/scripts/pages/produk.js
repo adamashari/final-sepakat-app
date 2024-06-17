@@ -48,10 +48,8 @@ const renderProduk = async (container) => {
   const scrollToTopButton = document.getElementById('scroll-to-top');
   const loadingElement = document.getElementById('loading');
 
-  // Menampilkan elemen loading
   loadingElement.style.display = 'flex';
   let pakaianAdatList = await fetchPakaianAdatData();
-   // Menyembunyikan elemen loading setelah data selesai dimuat
   loadingElement.style.display = 'none';
 
   const displayPakaianAdat = (data) => {
