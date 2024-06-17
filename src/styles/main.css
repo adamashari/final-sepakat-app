@@ -634,7 +634,7 @@ footer {
 }
 
 .loading-circle {
-  border: 7px solid #C18545;
+  border: 6px solid #C18545;
   border-left-color: white;
   border-radius: 50%;
   width: 40px;
