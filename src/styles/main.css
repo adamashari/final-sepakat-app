@@ -492,11 +492,11 @@ nav li.active {
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
   height: auto;
-  transition: box-shadow 0.3s;
+  transition: transform 0.3s;
 }
 
 .team-member:hover {
-  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.2);
+  transform: scale(1.1);
 }
 
 .team-member img {
